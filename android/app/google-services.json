@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561089005707",
+    "firebase_url": "https://gre-performance-tracker.firebaseio.com",
+    "project_id": "gre-performance-tracker",
+    "storage_bucket": "gre-performance-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561089005707:android:b337d5dd15b76ea3",
+        "android_client_info": {
+          "package_name": "tracker.neshdev.studios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561089005707-p6rsubkn8skimruqecml9skpe9upehmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-zgCzLUz3H3KFoQIJqwskPFrbZJrCZX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561089005707-p6rsubkn8skimruqecml9skpe9upehmi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561089005707-4k771n4mj85gfm6rtk0eudp4nkk72j8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tracker.neshdev.studios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
